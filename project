@@ -1,0 +1,44 @@
+<div class="carousel" id="car">
+
+	  </div>
+
+
+	<script>
+
+
+
+
+	let url = "https://api.spotify.com/v1/me/top/artists";
+
+	fetch(url,{'get', 
+	headers:{
+
+		"Accept": "application/json",
+		"Content-Type": "application/json",
+		"Authorization": "Bearer BQDUwQJvrAjb-z-WAS7oG8UDyDe8l7Fyy1GIzvjZWOOWYORE0XN-nHpWfk7-erO-chqeG57_pexbuRnnAKMjHT8epnVOrtEyAG09cVERSVxOpus9guzD5gDq_UIGG1Z_C2aZTQhAOEtyrQqO-s7eqDfNrQ"
+
+}
+
+})
+	.then(function(respuesta) { return respuesta.json()})
+	.then(function(data) {
+	      console.log(data);
+
+
+	})
+
+	.catch(function(error) {
+	    console.log("ooops!!!" + error)
+	});
+
+
+
+
+	</script>
+
+
+
+	 <!--JavaScript at end of body for optimized loading-->
+	      <script type="text/javascript" src="js/materialize.min.js"></script>
+	    </body>
+	  </html>
