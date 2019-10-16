@@ -1,0 +1,72 @@
+
+<!DOCTYPE html>
+  <html>
+	<head>
+  	<!--Import Google Icon Font-->
+  	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  	<!--Import materialize.css-->
+  	<link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+
+  	<!--Let browser know website is optimized for mobile-->
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+   	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	</head>
+
+	<body>
+  	<div class="card-panel blue darken-2 white-text"><p class="flow-text">AudioStud</p> </div>
+
+  	<div class="container">
+    	<!-- Page Content goes here -->
+  	<div>
+
+	<img class="responsive-img" src="images/Logo.PNG" alt="Una app moderna, amigable con el usuario, fácil de usar, segura y funcional.">
+	</div>
+  	<div>	 
+        	<i class="large material-icons">fast_forward</i>
+        	<i class="large material-icons">keyboard_voice</i>
+        	<i class="large material-icons">fast_rewind</i>
+  	</div>
+ 	 
+        	<p class="flow-text">AudioStud es una aplicación fácil de usar que busca funcionar como un reproductor de notas de estudio con funciones especiales dirigidas al aprendizaje del usuario. Aquellas personas cuyo método de aprendizaje predominante es el auditivo necesitan una alternativa que les permita mejorar su rendimiento al momento de estudiar. Por eso creamos AudioStud.</p>
+<p class="flow-text">
+AudioStud permitirá que el usuario grabe sus notas de estudio con su propia voz, o bien, que las ingrese por escrito y seleccione alguna voz ajena que las lea por él (como diferentes tonos de voz, en diferentes acentos e idiomas). Además podrá organizarlas por carpetas y subcarpetas de colores, según el tema y la materia que esté estudiando. Por último, AudioStud funcionará en todos los sistemas operativos y contará con reconocimiento vía auxiliar, mp3 o bluetooth para que se pueda reproducir en todos lados y dispositivos. De esta forma, el usuario podrá aprovechar su tiempo en aquellas ocasiones que desea estudiar pero no puede leer porque debe hacer otra cosa (como conducir, cocinar, limpiar, bañarse, entre otras actividades).</p>
+<p class="flow-text">
+Nuestros principales competidores podrían ser aplicaciones de reproducción de audio como “Notas de voz” o de audiolibros como “Kindle”. Sin embargo, no hay nada igual en el mercado. Buscaremos generar ganancias mediante convenios con patrocinadores y sistemas operativos, así como vendiendo la aplicación a un precio sumamente accesible ($1 USD). Corremos el riesgo de no dar a conocer la aplicación lo suficiente o que no funcione de forma óptima, pero los convenios y patrocinios nos ayudarán a resolver estos problemas.</p>
+<p class="flow-text">
+AudioStud se verá y comportará como una app moderna, amigable con el usuario, fácil de usar, segura y funcional. Cuando los usuarios comiencen a optimizar la forma en la que aprenden gracias a nuestra app, sabremos que hemos triunfado.
+</p>
+
+<h3>Hipótesis</h3>
+
+
+
+
+  	<i class="large material-icons">fast_forward</i>
+        	<i class="large material-icons">keyboard_voice</i>
+        	<i class="large material-icons">fast_rewind</i>
+  	</div>
+	</body>
+	<footer class="page-footer blue darken-2">
+      	<div class="container">
+        	<div class="row">
+          	<div class="col l6 s12">
+            	<h5 class="white-text">Información de la página</h5>
+            	<p class="grey-text text-lighten-4">Gracias por visitar</p>
+          	</div>
+          	<div class="col l4 offset-l2 s12">
+            	<h5 class="white-text">Integrantes: </h5>
+            	<ul>
+              	<li><a class="grey-text text-lighten-3" href="#!">Abigail Guadarrama Victoria</a></li>
+              	<li><a class="grey-text text-lighten-3" href="#!">Renata Martín Intriago</a></li>
+            	</ul>
+          	</div>
+        	</div>
+      	</div>
+      	<div class="footer-copyright">
+        	<div class="container">
+        	© 2019 Copyright Text
+        	<a class="grey-text text-lighten-4 right" href="#!">More Links</a>
+        	</div>
+      	</div>
+    	</footer>
+  </html>
