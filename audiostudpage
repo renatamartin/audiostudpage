@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+<div class="container">
+
+     <!--Import Google Icon Font-->
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <!--Import materialize.css-->
+      <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+
+      <!--Let browser know website is optimized for mobile-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+     <h1>Examen 2° parcial</h1>
+
+</div>
+      </head>
+
+      <body>
+<div class="container">
+
+          <p class="flow-text">Un poema sobre nuestra problemática: </p>
+          <div>
+                  <a class="btn" id="boton">button</a>
+            </div>
+
+    <div>
+        <p class="flow-text">Outcome: </p>
+        <p class=”flow-text”>Facilitar el aprendizaje a nuestros usuarios mientras aprovechan su tiempo.</p>
+    </div>
+
+
+    <div>
+        <p class="flow-text">Tres posibles indicadores: </p>
+    <ol>
+                  <li><a class="blue-text text-light-blue lighten-1" href="#!">Observación experimental: probar dos métodos de aprendizaje (lectura vs. nuestra app) con el usuario en un periodo de tiempo de una hora para ver qué tan efectiva le resulta nuestra aplicación frente a la otra. </a></li>
+
+                  <li><a class="blue-text text-light-blue lighten-1" href="#!">Encuesta: obtener retroalimentación de muchos usuarios sobre su experiencia utilizando la aplicación.</a></li>
+
+<li><a class="blue-text text-light-blue lighten-1" href="#!">Entrevista: elegir a usuarios recurrentes para hacer entrevistas profundas acerca de su experiencia específica con la aplicación.</a></li>
+                </ol>
+    </div>
+    
+    <div>
+    <p class="flow-text">Nuestra lluvia de ideas: </p>
+</div>
+<div>
+<ol>
+                  <li><a class="blue-text text-light-blue lighten-1" href="#!">Una aplicación fácil de usar que busca funcionar como un reproductor de notas de estudio con funciones especiales dirigidas al aprendizaje del usuario. Aquellas personas cuyo método de aprendizaje predominante es el auditivo necesitan una alternativa que les permita mejorar su rendimiento al momento de estudiar.</a></li>
+
+                  <li><a class="blue-text text-light-blue lighten-1" href="#!">Un portal web con audiolibros y otros productos auditivos propios de diferentes temas, materias y academias que permita a los alumnos de las universidades acceder a una alternativa de estudio distinta a las lecturas.</a></li>
+</ol>
+</div>
+
+    <div>
+    <img id="imagen" src="https://cdn.pixabay.com/photo/2017/08/06/12/52/people-2592247_960_720.jpg" alt="" class="circle responsive-img">
+      </div>
+
+    <div>
+        <p class="flow-text">Actores involucrados en la problemática: </p>
+    <ol>
+                  <li><a class="blue-text text-light-blue lighten-1" href="#!">Personas predominantemente auditivas: son las principales afectadas por la falta de alternativas de aprendizaje disponibles para ellas. </a></li>
+
+                  <li><a class="blue-text text-light-blue lighten-1" href="#!">Maestros: en su mayoría preparan sus clases con material visual y kinestésico sin implementar material auditivo para la mejor comprensión de la clase y tareas. </a></li>
+
+<li><a class="blue-text text-light-blue lighten-1" href="#!">Sistema educativo: tanto entes públicos como privados diseñan los programas de educación básica y superior sin tomar en cuenta los diferentes tipos de aprendizaje que pueden tener los estudiantes.</a></li>
+
+                </ol>
+    </div>
+
+<div>
+        <p class="flow-text">Su forma de interacción con la solución: </p>
+    <ol>
+                  <li><a class="blue-text text-light-blue lighten-1" href="#!">Personas predominantemente auditivas: por la aplicación se verían beneficiados para optimizar su forma de estudiar, y la página web también podría servirles para complementar lo visto en clase. </a></li>
+
+                  <li><a class="blue-text text-light-blue lighten-1" href="#!">Maestros: la aplicación no sería usada directamente por ellos, si no sus alumnos que pueden optimizar su aprendizaje. Con la página web pueden implementar material auditivo para los mismos alumnos. </a></li>
+
+<li><a class="blue-text text-light-blue lighten-1" href="#!">Sistema educativo: quizás no tienen una interacción directa con la aplicación, pero sí podrían verse beneficiados si con ella sube el nivel académico de los alumnos. La página web, por su parte, podría implementarse como parte de los planes de educación básica y/o profesional como herramienta complementaria para el aprendizaje de los estudiantes..</a></li>
+
+                </ol>
+    </div>
+    <div>
+<p class="flow-text">Evaluación de las propuestas</p>
+</div>
+<div>
+  <table class= "responsive-table">
+        <thead>
+          <tr>
+              <th>Criterio</th>
+              <th>Aplicación</th>
+              <th>Plataforma web</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          
+<tr>
+            <td><b>Accesibilidad:</b></td>
+            <td>Facilidad de acceso para escuchar el contenido.</td>
+            <td>Acceso más restringido.</td>
+          </tr>
+
+
+<tr>
+            <td><b>¿Uso independiente?:</b></td>
+            <td>Uso independiente de las instituciones.</td>
+            <td>Apoyo oficial en materias institucionales</td>
+          </tr>
+
+      
+<tr>
+<td><b>¿Uso personalizado?:</b></td>    
+<td>Posibilidad de uso personalizado (se puede modificar y organizar a gusto del usuario) </td>
+            <td>Las instituciones eligen cómo se organiza y cómo se utiliza.</td>
+          </tr>
+
+             </tbody>
+      </table>
+    <p class="flow-text">Nuestra idea seleccionada es la aplicación móvil.</p>
+    </div>
+    
+
+
+    <div>
+<p class="flow-text">Prototipos en plastilina</p>
+    </div>
+    <div><img class="materialboxed" width="650" src="Examen2/menuPrincipal.png"></div>
+    <div><img class="materialboxed" width="650" src="Examen2/carpetas.png"></div>
+    <div><img class="materialboxed" width="650" src="Examen2/personaliza.png"></div>
+
+<p class="flow-text">Retroalimentación</p>
+    </div>
+
+    <div class="row">
+      <div class="col s12"><span class="flow-text">Cambiaría la gama de colores a algo más simple para que sea más agradable a la visa. </span></div>
+    </div>
+    
+	<div>
+	<p class=”flow-text”>¿Usamos o usaríamos un patrón “malvado”?</p>
+	</div>
+	<p><a class="blue-text text-light-blue lighten-1" href="#!">No, no usamos ni usaríamos un patrón malvado porque para nosotros lo primordial es crear una aplicación sencilla y funcional que realmente ayude a los usuarios. Claro que implicaría un dilema ético, porque obtener suscriptores con engaños implica una práctica que los podría afectar de distintas maneras.</a></p>
+
+
+	<div>
+	        <p class="flow-text"><b>Principios UX LEAN: </b></p>
+	<ol>
+	                  <li><a class="blue-text text-light-blue lighten-1" href="#!">Individuos e interacciones sobre procesos y herramientas: Porque nuestro principal objetivo es que el usuario tenga una alternativa de aprendizaje más efectiva y personalizada según sus necesidades. No se trata de que la aplicación sea la mejor herramienta y que los procesos sean los mejores, sino de que sean verdaderamente efectivos para el usuario. </a></li>
+
+	                  <li><a class="blue-text text-light-blue lighten-1" href="#!">El software tiene un funcionamiento amigable e intuitivo para el usuario lo que lo convierte en una documentación comprensiva. </a></li>
+
+	<li><a class="blue-text text-light-blue lighten-1" href="#!">Estamos dispuestas a mejorar nuestro proyecto, y no estamos “casadas” con la idea original. Esto es porque no se trata de tener nuestra idea perfecta hecha realidad, sino de ofrecer la aplicación más útil y atractiva para los usuarios. </a></li>
+
+	</ol>
+	</div>
+	<div>
+{
+“Nombre”: ”Abigail Guadarrama Victoria”,
+“MatrÍcula”: “A01635153”,
+“Calificación”: “100”,
+“Justificación”: “Porque trabajó a la par de Renata para idear la aplicación, pensar en cómo hacer más atractiva la página en términos de programación y encontrar soluciones basadas en los principios de UX Lean”
+},
+{
+“Nombre”: ”Renata Martín Intriago”,
+“Matrícula”: “A01632337”,
+“Calificación”: “100”,
+“Justificación”: “Porque trabajó a la par de Abigail para idear la aplicación, hizo sus tareas, pensó y propuso cómo puede ser más atractiva la página en términos de diseño.”
+
+}
+</div>
+
+
+      <script type="text/javascript" src="js/materialize.min.js"></script>
+
+       <script type="text/javascript">
+       document.getElementById("boton").addEventListener("click", activar);
+    document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('.materialboxed');
+    var instances = M.Materialbox.init(elems, options);
+  });
+
+       function activar(){
+            alert("Un mundo de educación       donde se exige aprender     de la misma manera    a todos sin importar    la que cada uno prefiera    Los que tienen habilidades    que no encajan en la caja    a menudo se ven obligados    a estudiar lo inadecuado.    Las soluciones de estudio    dejan en el olvido    a quienes suelen aprender    por el método auditivo.");
+          }
+          </script>
+</div>    
+      </body>
+
+   </html>
